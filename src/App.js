@@ -7,6 +7,7 @@ import Day5 from "./module/Day5"
 import Palindrome from "./August/Day6";
 import Multiplication from "./August/Day7";
 import SmallestNumber from "./August/Day8";
+import Day9 from "./August/Day9";
 
 function App() {
   return (
@@ -19,7 +20,8 @@ function App() {
     {/* <Day5/> */}
     {/* <Palindrome/> */}
     {/* <Multiplication/> */}
-    <SmallestNumber/>
+    {/* <SmallestNumber/> */}
+    <Day9/>
     </>
   );  
 }
