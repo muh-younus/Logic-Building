@@ -9,7 +9,7 @@ import Multiplication from "./August/Day7";
 import SmallestNumber from "./August/Day8";
 import Day9 from "./August/Day9";
 import Day10 from "./August/Day10"; 
-import Day11 from "./August/Day11";
+import Day12 from "./August/Day12";
 
 function App() {
   return (
@@ -25,7 +25,7 @@ function App() {
     {/* <SmallestNumber/> */}
     {/* <Day9/> */}
     {/* <Day10/> */}
-    <Day11/>
+    <Day12/>
     </>
   );  
 }
